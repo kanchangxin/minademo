@@ -1,4 +1,4 @@
-package com.companyname.bank;
+package com.companyname.bank.demo1;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
